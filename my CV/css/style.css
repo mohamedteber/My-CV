@@ -1,0 +1,84 @@
+.big {
+    color: blue;
+    font-style: italic;
+    font-size: 100px;
+
+
+}
+
+.big2 {
+    font-size: 100px;
+
+}
+
+.p {
+    font-size: 50px;
+
+}
+
+#contact form {
+    margin-top: 500;
+    margin-bottom: 500;
+}
+
+.rq {
+    color: red;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 60px;
+}
+
+.normale {
+    color: black;
+    font-size: 50px;
+
+}
+
+.hrstyle {
+    border-top: 1px solid red;
+    margin-top: 20px;
+
+}
+
+#mycv {
+    font-size: 70px;
+    font-family: fantasy;
+}
+
+.date {
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.exp1 {
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+#intership {
+    font-size: 60px;
+    font-style: italic;
+    font-variant: small-caps;
+    text-decoration: underline;
+
+}
+
+.local {
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.INFORMATION {
+    font-size: 50PX;
+}
+
+.COMPANY {
+    text-decoration: underline;
+}
+
+.card-body {
+    background-color: rgb(226, 43, 144);
+}
